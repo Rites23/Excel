@@ -28,6 +28,8 @@ The Bikes Sales Dashboard is an interactive Excel tool for visualizing and analy
 - Sales Summary: Overview of bike sales and revenue.
 - Demographic Analysis: Insights based on age and income.
 - Purchasing Trends: Visuals of bike purchases by distance.
+- 👨‍💼 Male Purchases (Blue)
+- 👩‍💼 Female Purchases (Orange)
   
 🔍 Findings:
 - Top Purchases: Middle Age group with 25 purchases.
