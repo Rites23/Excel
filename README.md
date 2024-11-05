@@ -40,5 +40,7 @@ The Bikes Sales Dashboard is an interactive Excel tool for visualizing and analy
 - Integrate more datasets for deeper analysis.
 - Add predictive analytics for forecasting trends.
 
+  ![image](https://github.com/user-attachments/assets/d9ed0811-f58a-4bac-8dcd-e683744945f1)
+
 🧾 Conclusion
 - The Bikes Sales Dashboard provides key insights into customer behavior by demographics and travel distance, helping optimize marketing, inventory, and outreach.
